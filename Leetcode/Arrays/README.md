@@ -8,7 +8,7 @@ This folder contains solutions to array-related problems from various platforms 
 
     - [LeetCode Problem Link](https://leetcode.com/problems/baseball-game/)
 
-2. [42 - Trapping Rain Water (Hard)](../Array/TrappingRainWater.java)
+2. [42 - Trapping Rain Water (Hard)](../Arrays/TrappingRainWater.java)
     - [LeetCode Problem Link](https://leetcode.com/problems/trapping-rain-water/)
 
 Feel free to contribute or provide feedback!
